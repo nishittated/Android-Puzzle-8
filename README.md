@@ -1,7 +1,6 @@
 # Android-Puzzle-8
 # Android application for a Puzzle game.
 
-# Android-Puzzle-8
 The idea is to slide tiles around to form an image or to recreate a numerical sequence.
 
 # Download from here: https://github.com/nishittated/Android-Puzzle-8/
