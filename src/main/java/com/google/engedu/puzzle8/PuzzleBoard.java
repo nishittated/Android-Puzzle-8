@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
 import java.util.ArrayList;
-import java.util.Queue;
+import java.util.Queue; 
 
 
 public class PuzzleBoard {
