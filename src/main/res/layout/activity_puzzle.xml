@@ -34,7 +34,7 @@
         android:text="@string/solve_button_label"
         android:id="@+id/solve_button"
         android:onClick="solve"
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentBottom="true"   
         android:layout_toRightOf="@+id/shuffle_button"
         android:layout_toEndOf="@+id/shuffle_button" />
 
